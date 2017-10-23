@@ -4,6 +4,8 @@
 
 ## Build Setup
 
+# Download the files
+
 ``` bash
 # install dependencies
 npm install
